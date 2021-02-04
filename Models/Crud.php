@@ -12,7 +12,7 @@ interface Crud {
     function select();
     function insert();
     function update();
-    function delete();
+    //function delete();
 
 
 }
